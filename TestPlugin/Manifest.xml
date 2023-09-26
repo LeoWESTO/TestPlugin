@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FileName>TestPlugin.dll</FileName>
+	<TypeName>TestPlugin.TestPlugin</TypeName>
+	<ApiVersion>V7</ApiVersion>
+	<LicenseModuleId>21005108</LicenseModuleId>
+</Manifest>
